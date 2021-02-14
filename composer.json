@@ -10,7 +10,7 @@
 		"typo3/cms-form": "^11.0",
 		"typo3/cms-indexed-search": "^11.0",
 		"typo3/cms-felogin": "^11.0",
-		"bk2k/bootstrap-package": "master-dev"
+		"bk2k/bootstrap-package": "dev-master"
 	},
 	"extra": {
 		"typo3/cms": {
