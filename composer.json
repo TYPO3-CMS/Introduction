@@ -5,11 +5,11 @@
 	"homepage": "https://typo3.org",
 	"license": ["GPL-2.0-or-later"],
 	"require": {
-		"typo3/cms-core": "^11.0 || ^11.1",
-		"typo3/cms-impexp": "^11.0 || ^11.1",
-		"typo3/cms-form": "^11.0 || ^11.1",
-		"typo3/cms-indexed-search": "^11.0 || ^11.1",
-		"typo3/cms-felogin": "^11.0 || ^11.1",
+		"typo3/cms-core": "^11.0",
+		"typo3/cms-impexp": "^11.0",
+		"typo3/cms-form": "^11.0",
+		"typo3/cms-indexed-search": "^11.0",
+		"typo3/cms-felogin": "^11.0",
 		"bk2k/bootstrap-package": "dev-master"
 	},
 	"extra": {
